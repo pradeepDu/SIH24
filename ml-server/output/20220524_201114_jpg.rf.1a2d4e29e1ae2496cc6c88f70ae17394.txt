@@ -1,0 +1,7 @@
+
+Cocaine detected at coordinates (501.0184, 95.6656, 591.0492, 198.2834)
+Marijuana detected at coordinates (109.7187, 117.8789, 292.0805, 221.1899)
+Shrooms detected at coordinates (53.6581, 433.4778, 186.9956, 588.6826)
+Shrooms detected at coordinates (270.4817, 348.2296, 404.6428, 554.8419)
+Shrooms detected at coordinates (487.7935, 346.8950, 627.7100, 571.9853)
+Heroin detected at coordinates (422.9014, 2.2552, 495.6721, 258.0177)

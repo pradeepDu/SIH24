@@ -1,0 +1,135 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+.navbar-left .brand {
+  font-size: 24px;
+}
+
+.navbar-right .nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-right .nav-links li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Search Bar Styling */
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.search-bar {
+  padding: 10px;
+  width: 300px;
+}
+
+.search-btn {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.tabs-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.tab-btn {
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+
+.search-results {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 20px;
+  text-align: center;
+}
+
+
+.instabot-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.username-input {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.submit-btn {
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.instabot-container {
+  padding: 20px;
+}
+
+.form-toggle {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.toggle-btn {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-btn.active {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.form-section {
+  margin-top: 20px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+.submit-btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
