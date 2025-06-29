@@ -1,7 +1,7 @@
 import assemblyai as aai
 
 # Replace with your API key
-aai.settings.api_key = "8d1b9a35017445d38d6d6c409f5827c2"
+aai.settings.api_key = ""
 
 # URL of the file to transcribe
 # FILE_URL = "https://github.com/AssemblyAI-Community/audio-examples/raw/main/20230607_me_canadian_wildfires.mp3"
