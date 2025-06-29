@@ -8,11 +8,11 @@ import assemblyai as aai
 from pydub import AudioSegment
 
 # Initialize the bot and Flask app
-TOKEN = '7391368660:AAFt5gpZaopDEFxsvGZZGs36Fsv8jILvozs'
+TOKEN = ''
 bot = telebot.TeleBot(token=TOKEN)
 app = Flask(__name__)
 
-aai.settings.api_key = "8d1b9a35017445d38d6d6c409f5827c2"
+aai.settings.api_key = ""
 transcriber = aai.Transcriber()
 # transcript = transcriber.transcribe("https://storage.googleapis.com/aai-web-samples/news.mp4")
 # transcript = transcriber.transcribe("./voice_messages/AwACAgUAAxkBAANrZuctzemx9yaq39qzlVQ-7qKzoOYAAqoOAAIriEBXD_lyfn3E38I2BA.wav")
